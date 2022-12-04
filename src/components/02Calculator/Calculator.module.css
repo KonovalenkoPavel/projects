@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  border: 1px solid black;
+}
+
+.mainCalculatorBody {
+  width: 300px;
+  height: 500ox;
+  margin: 50px auto;
+  border: 1px solid red;
+}
+
+.buttonsBody {
+}
